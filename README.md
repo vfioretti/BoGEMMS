@@ -1,7 +1,7 @@
 # BoGEMMS
 The Bologna Geant4 Multi-Mission Simulator
 
-# BoGEMMS the virtual telescope 
+## BoGEMMS the virtual telescope 
 BoGEMMS (Bologna Geant4 Multi-Mission Simulator) is a free, open-access simulation framework based on the Geant4 toolkit. 
 Fully customisable, it allows the user to build a 3D model of the high energy mission/experiment using configuration files. 
 The output is formatted in Astronomy-oriented ROOT and FITS files to allow the post-processing of the simulation output as a real observation in space.
