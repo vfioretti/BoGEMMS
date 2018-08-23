@@ -1,8 +1,8 @@
 ##### Authors: V. Fioretti and A. Bulgarelli (INAF OAS Bologna)
 
-[##### About](about.md)
+##### [About](about.md)
 
-[##### References](references.md)
+##### [References](references.md)
 
 ##### BoGEMMS reference papers
 *	V. Fioretti et al., “Background minimization issues for next generation hard X-ray focusing telescopes”, Ph.D. Thesis, Bologna University, 2011
