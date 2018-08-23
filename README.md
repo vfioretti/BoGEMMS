@@ -4,5 +4,5 @@ BoGEMMS (Bologna Geant4 Multi-Mission Simulator) is a free, open-access simulati
 
 ### [References](references.md)
 
-####### Authors: V. Fioretti and A. Bulgarelli (INAF OAS Bologna)
+###### Authors: V. Fioretti and A. Bulgarelli (INAF OAS Bologna)
 
