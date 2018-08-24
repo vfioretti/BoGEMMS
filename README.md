@@ -5,7 +5,7 @@ BoGEMMS (Bologna Geant4 Multi-Mission Simulator) is a free, open-access simulati
 ![Alt text]()
 ![Alt text]()
 
-![GSD1 phenotype]({{ BASE_PATH }}/assets/images/GSD1.pheno.png)
+![GSD1 phenotype]({{ /BoGEMMS }}/blob/master/images/GLight_calorimeter_tracker_elec.PNG)
 
 ### [Getting started](started.md)
 
