@@ -37,7 +37,7 @@ protons angular and spatial distribution at the exit of the optics).
 * in the case of complex geometries, two branches are provided for the simulation of X-ray and gamma-ray
 missions, where the configuration files provides the user with a set of flags to modify the geometry
 
-##### Compiling BoGEMMS
+### Compiling BoGEMMS
 The Makefile provided in the github code is for Mac installation. If you prefer Linux instead, use the Makefile_linux file (after renaming the file to Makefile).
 ```shell
 make COMPILEVARS="...."
@@ -47,7 +47,7 @@ COMPILEVARS:
 * if ROOT is not linked to the Geant4 installation: -D WITHOUTROOT
 * for using the database option (in beta version): -D SQLITE3
 
-##### Running BoGEMMS
+### Running BoGEMMS
 To run BoGEMMS, just type:
 ```shell
 bogemms <configuration>.conf 0 <input>.mac
